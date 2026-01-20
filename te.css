@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    letter-spacing: none;
+}
+.container{
+    max-width: 1109px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.nav_top{
+    background: #0c0c0c;
+    padding: 18px 0;
+}
+.nav_up{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+color: white;
+}
+.navtop{
+        display: flex;
+        gap: 20px;
+}
